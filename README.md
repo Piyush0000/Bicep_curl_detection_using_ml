@@ -20,12 +20,3 @@ The system uses pose landmarks to:
 - Calculates elbow joint angle
 - Counts bicep curls when the motion completes a full rep
 
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/your-username/bicep-tracker.git
-cd bicep-tracker
